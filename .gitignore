@@ -1,0 +1,9 @@
+# Python env
+venv
+.venv
+
+# Ignore all .png files
+*.png
+
+# Exclude the specific file you want to keep
+!base.png
